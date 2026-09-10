@@ -1,0 +1,20 @@
+{
+    "name": "Endereça SENAI",
+    "short_name": "Endereça SENAI",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#768affff",
+    "theme_color": "#f15f1cff",
+    "icons": [
+        {
+            "src": "icons/192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
